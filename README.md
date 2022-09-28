@@ -9,7 +9,7 @@
 
 <h1 align="center">ToDos</h1>
 <div align="center">
-  <img alt ="Portfolio" src="img.png">
+  <img alt ="Portfolio" src="Final-Style-Touches/img.png">
 </div>
 
 <p align="center">
